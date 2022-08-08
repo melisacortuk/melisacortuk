@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![cat-typing](https://user-images.githubusercontent.com/76431780/183507866-c56c6828-f091-40b2-8716-ea536a047736.gif)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=melisacortuk&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melisacortuk&theme=tokyonight)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=melisacortuk&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melisacortuk&theme=tokyonight)
