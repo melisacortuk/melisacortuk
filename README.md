@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![cat-typing](https://user-images.githubusercontent.com/76431780/183512036-7db81e3d-5c32-4b88-a0df-15392924f1d3.gif)
+<img src="cat-typing.gif" width="200px">
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=melisacortuk&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)
 
